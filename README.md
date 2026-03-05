@@ -30,14 +30,3 @@ Microsoft Excel 2021
 ---
 
 *Updated: March 2026*
-```
-
----
-
-## Image Add කරන්න
-
-**Step 1:** Repository → **Add File** → **Upload Files**
-
-**Step 2:** Screenshot file rename කරන්න:
-```
-01_Bank_Tracker_Preview.png
