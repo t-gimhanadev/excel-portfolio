@@ -7,7 +7,7 @@ analysis, and reporting skills.
 
 ## Project 01 — NovaTech Bank Transaction Tracker
 
-![NovaTech Bank Transaction Tracker](01_Bank_Transaction_Tracker_Preview.PNG)
+![NovaTech Bank Transaction Tracker](01_Bank_Tracker_Preview.png)
 
 ### Overview
 Monthly bank transaction tracker for NovaTech Solutions 
